@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.2.13"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  }
+}
